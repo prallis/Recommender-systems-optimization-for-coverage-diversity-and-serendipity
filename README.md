@@ -15,7 +15,7 @@ number of users.
 The second problem is to maximize the total serendipity of recommended
 items subject to guaranteeing a given minimum serendipity for each set
 of items. Serendipity can be defined in various ways. Here we define it
-through a combination of item popularity and its dierence from items
+through a combination of item popularity and its difference from items
 a user has experienced so far. We show that these problems may be
 viewed as assignment problems. We will perform extensive numerical
 experiments with real data that verify the findings of our approach.
